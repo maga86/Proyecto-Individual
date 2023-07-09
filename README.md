@@ -42,10 +42,13 @@ Se crearon 6 funciones para los endspoint quer se consumiran en la Api utilizand
                     Ejemplo de retorno: La productora X ha tenido un revenue de x
 
  - def get_director( nombre_director ): Se ingresa el nombre de un director que se encuentre dentro de un dataset debiendo devolver el éxito del mismo medido a través del retorno. Además, deberá devolver el nombre de cada película con la fecha de lanzamiento, retorno individual, costo y ganancia de la misma, en formato lista.
-   Se puede visualizar las funciones en el archivo: app.py.
+   Se puede visualizar las funciones en el archivo: main.py.
  
 ### Análisis exploratorio de datos:
 
 A los efectos de poder entender los datos presentados, se realizaron una serie de análisis y estudios sobre las variables del dataset a los efectos de poder encontrar relaciones entre los datos y comprender la relevancia de los mismos. Dentro de los análisis efectuados se encuentran gráficos de palabras graficos de barras comparando columna, distribuciones de frecuencias de las variables numéricas, identificación de variables categóricas y sus valores, correlación entre variables, análisis temporales y por categoría.
+
 ### Deployed:
-Para el deploy de la API, se utilizó la plataforma Render. Los datos están listos para ser consumidos y consultados a partir del siguiente link: https://api-brrw.onrender.com/docs
+Para el deploy de la API, se utilizó la plataforma Render. Los datos están listos para ser consumidos y consultados a partir del siguiente link: https://api-brrw.onrender.com/docs.
+
+### Video:
