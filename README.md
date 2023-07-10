@@ -48,7 +48,7 @@ El [Dataset](https://github.com/maga86/Proyecto-Individual/blob/main/movies_data
 - Uvicorn: Servidor ASGI utilizado para ejecutar la aplicación FastAPI.
 - Render: Plataforma utilizada para el despliegue del modelo y la aplicación.
 
-   ## DESARROLLO DEL PROYECTO:
+                                         ## DESARROLLO DEL PROYECTO:
 
 ### Data Engineering:
 
