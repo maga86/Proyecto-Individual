@@ -46,14 +46,14 @@ Se crearon 6 funciones para los endspoint quer se consumiran en la Api utilizand
                     Ejemplo de retorno: La productora X ha tenido un revenue de x
 
  - def get_director( nombre_director ): Se ingresa el nombre de un director que se encuentre dentro de un dataset debiendo devolver el éxito del mismo medido a través del retorno. Además, deberá devolver el nombre de cada película con la fecha de lanzamiento, retorno individual, costo y ganancia de la misma, en formato lista.
-   Se puede visualizar los Endspoints realizados en el archivo:[main.py](https://github.com/maga86/Proyecto-Individual/blob/main/main.py)
+   Se puede visualizar los Endspoints realizados en el archivo: [main.py](https://github.com/maga86/Proyecto-Individual/blob/main/main.py)
 
 ### Desarrollo API:
  
 ### Análisis exploratorio de datos:
 
 A los efectos de poder entender los datos presentados, se realizaron una serie de análisis y estudios sobre las variables del dataset a para  poder encontrar relaciones entre los datos y comprender la relevancia de los mismos. Dentro de los análisis efectuados se encuentran gráficos de palabras gráficos de barras comparando columna, distribuciones de frecuencias de las variables numéricas, identificación de variables categóricas y sus valores, correlación entre variables, detección de outliers, análisis temporales y por categoría.
-Se puede visualizar el Análisis exploratorio en el archivo: [Proyecto1 EDA.ipynb](https://github.com/maga86/Proyecto-Individual/blob/main/Proyecto1_EDA.ipynb)
+Se puede visualizar el Análisis exploratorio en el archivo:[Proyecto1 EDA.ipynb](https://github.com/maga86/Proyecto-Individual/blob/main/Proyecto1_EDA.ipynb)
 
 
 
