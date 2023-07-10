@@ -7,7 +7,7 @@ El proyecto se plantea a partir de un data set con información de películas, a
 
 ## Dataset
 
-El [dataset](https://github.com/maga86/Proyecto-Individual/blob/main/movies_dataset.xlsx) en cuestión posee información acerca de películas y distintos atributos de las mismas. El mismo cuenta con 45466 filas (representando cada fila una película) y 24 columnas (atributos de cada título).
+El [dataset] (https://drive.google.com/drive/folders/1nvSjC2JWUH48o3pb8xlKofi8SNHuNWeu) en cuestión posee información acerca de películas y distintos atributos de las mismas. El mismo cuenta con 45466 filas (representando cada fila una película) y 24 columnas (atributos de cada título).
 
 ### Data Engineering:
 
