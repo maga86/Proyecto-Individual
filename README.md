@@ -11,43 +11,43 @@ El [Dataset](https://github.com/maga86/Proyecto-Individual/blob/main/movies_data
 
 ## DICCIONARIO DATOS:
 
--adult: Indica si la película tiene califiación X, exclusiva para adultos.
--belongs_to_collection: Un diccionario que indica a que franquicia o serie de películas pertenece la película.
--budget: El presupuesto de la película, en dólares.
--genres: Un diccionario que indica todos los géneros asociados a la película.
--homepage: La página web oficial de la película.
--id: ID de la película.
--imdb_id: IMDB ID de la película.
--original_language: Idioma original en la que se grabo la película.
--original_title: Título original de la película.
--overview: Pequeño resumen de la película.
--popularity: Puntaje de popularidad de la película, asignado por TMDB (TheMoviesDataBase).
--poster_path: URL del póster de la película.
--production_companies: Lista con las compañias productoras asociadas a la película.
--production_countries: Lista con los países donde se produjo la película.
--release_date: Fecha de estreno de la película.
--revenue: Recaudación de la pelicula, en dolares.
--runtime: Duración de la película, en minutos.
--spoken_languages: Lista con los idiomas que se hablan en la película.
--status: Estado de la película actual (si fue anunciada, si ya se estreno, etc).
--tagline: Frase celebre asociadaa la película.
--title: Titulo de la película.
--video: Indíca si hay o no un trailer en video disponible en TMDB.
--vote_average: Puntaje promédio de reseñas de la película.
--vote_count: Números de votos recibidos por la película, en TMDB.
+- adult: Indica si la película tiene califiación X, exclusiva para adultos.
+- belongs_to_collection: Un diccionario que indica a que franquicia o serie de películas pertenece la película.
+- budget: El presupuesto de la película, en dólares.
+- genres: Un diccionario que indica todos los géneros asociados a la película.
+- homepage: La página web oficial de la película.
+- id: ID de la película.
+- imdb_id: IMDB ID de la película.
+- original_language: Idioma original en la que se grabo la película.
+- original_title: Título original de la película.
+- overview: Pequeño resumen de la película.
+- popularity: Puntaje de popularidad de la película, asignado por TMDB (TheMoviesDataBase).
+- poster_path: URL del póster de la película.
+- production_companies: Lista con las compañias productoras asociadas a la película.
+- production_countries: Lista con los países donde se produjo la película.
+- release_date: Fecha de estreno de la película.
+- revenue: Recaudación de la pelicula, en dolares.
+- runtime: Duración de la película, en minutos.
+- spoken_languages: Lista con los idiomas que se hablan en la película.
+- status: Estado de la película actual (si fue anunciada, si ya se estreno, etc).
+- tagline: Frase celebre asociadaa la película.
+- title: Titulo de la película.
+- video: Indíca si hay o no un trailer en video disponible en TMDB.
+- vote_average: Puntaje promédio de reseñas de la película.
+- vote_count: Números de votos recibidos por la película, en TMDB.
 
 ## DESARROLLO DEL PROYECTO:
 
 ### Librerias y herramientas utilizadas en el proyecto:
 
--Scikit Learn: Utilizado para vectorizar, tokenizar y calcular la similitud coseno.
--Python: Lenguaje de programación principal utilizado en el desarrollo del proyecto.
--Numpy: Utilizado para realizar operaciones numéricas y manipulación de datos.
--Pandas: Utilizado para la manipulación y análisis de datos estructurados.
--Matplotlib: Utilizado para la visualización de datos y generación de gráficos.
--FastAPI: Utilizado para crear la interfaz de la aplicación y procesar los parámetros de funciones.
--Uvicorn: Servidor ASGI utilizado para ejecutar la aplicación FastAPI.
--Render: Plataforma utilizada para el despliegue del modelo y la aplicación.
+- Scikit Learn: Utilizado para vectorizar, tokenizar y calcular la similitud coseno.
+- Python: Lenguaje de programación principal utilizado en el desarrollo del proyecto.
+- Numpy: Utilizado para realizar operaciones numéricas y manipulación de datos.
+- Pandas: Utilizado para la manipulación y análisis de datos estructurados.
+- Matplotlib: Utilizado para la visualización de datos y generación de gráficos.
+- FastAPI: Utilizado para crear la interfaz de la aplicación y procesar los parámetros de funciones.
+- Uvicorn: Servidor ASGI utilizado para ejecutar la aplicación FastAPI.
+- Render: Plataforma utilizada para el despliegue del modelo y la aplicación.
 
 ### Data Engineering:
 
