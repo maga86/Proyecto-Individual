@@ -9,7 +9,7 @@ El proyecto se plantea a partir de un data set con información de películas, a
 
 El [Dataset](https://github.com/maga86/Proyecto-Individual/blob/main/movies_dataset.xlsx) en cuestión posee información acerca de películas y distintos atributos de las mismas. El mismo cuenta con 45466 filas (representando cada fila una película) y 24 columnas (atributos de cada título).
 
-## DICCIONARIO DATOS:
+## Diccionario de Datos:
 
 - adult: Indica si la película tiene califiación X, exclusiva para adultos.
 - belongs_to_collection: Un diccionario que indica a que franquicia o serie de películas pertenece la película.
@@ -36,7 +36,6 @@ El [Dataset](https://github.com/maga86/Proyecto-Individual/blob/main/movies_data
 - vote_average: Puntaje promédio de reseñas de la película.
 - vote_count: Números de votos recibidos por la película, en TMDB.
 
-## DESARROLLO DEL PROYECTO:
 
 ### Librerias y herramientas utilizadas en el proyecto:
 
@@ -48,6 +47,7 @@ El [Dataset](https://github.com/maga86/Proyecto-Individual/blob/main/movies_data
 - FastAPI: Utilizado para crear la interfaz de la aplicación y procesar los parámetros de funciones.
 - Uvicorn: Servidor ASGI utilizado para ejecutar la aplicación FastAPI.
 - Render: Plataforma utilizada para el despliegue del modelo y la aplicación.
+                                              ## DESARROLLO DEL PROYECTO:
 
 ### Data Engineering:
 
