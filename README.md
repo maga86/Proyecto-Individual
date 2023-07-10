@@ -103,3 +103,4 @@ Se puede visualizar el Análisis exploratorio en el archivo:[Proyecto1 EDA.ipynb
 Para el deploy de la API, se utilizó la plataforma Render. Los datos están listos para ser consumidos y consultados a partir del siguiente link: https://api-brrw.onrender.com/docs.
 
 ### Video:
+https://www.youtube.com/watch?v=GUmtfcHdm_Q
