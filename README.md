@@ -52,7 +52,9 @@ Se crearon 6 funciones para los endspoint quer se consumiran en la Api utilizand
  
 ### Análisis exploratorio de datos:
 
-A los efectos de poder entender los datos presentados, se realizaron una serie de análisis y estudios sobre las variables del dataset a para  poder encontrar relaciones entre los datos y comprender la relevancia de los mismos. Dentro de los análisis efectuados se encuentran gráficos de palabras gráficos de barras comparando columna, distribuciones de frecuencias de las variables numéricas, identificación de variables categóricas y sus valores, correlación entre variables, detección de outliers, análisis temporales y por categoría.
+A los efectos de poder entender los datos presentados realice una transformación,la cual no fue pedida en el trabajo, para que visualmente el dataset fuera mas accesible: renombre las columnas utilizando  el formato Camel Case Y reordene las columnas.
+
+Se realizaron una serie de análisis y estudios sobre las variables del dataset a para  poder encontrar relaciones entre los datos y comprender la relevancia de los mismos. Dentro de los análisis efectuados se encuentran gráficos de palabras gráficos de barras comparando columna, distribuciones de frecuencias de las variables numéricas, identificación de variables categóricas y sus valores, correlación entre variables, detección de outliers, análisis temporales y por categoría.
 Se puede visualizar el Análisis exploratorio en el archivo:[Proyecto1 EDA.ipynb](https://github.com/maga86/Proyecto-Individual/blob/main/Proyecto1_EDA.ipynb)
 
 
