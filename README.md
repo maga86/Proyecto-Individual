@@ -5,11 +5,11 @@
 
 El proyecto se plantea a partir de un data set con información de películas, al cual se le realizan un trabajo de Data Engineering haciendo una serie de transformaciones para luego llevar a cabo  los endpoints pedidos y un modelo de recomendación de películas utilizando Machine Learning, a través de una API.
 
-## Dataset
+### Dataset:
 
 El [Dataset](https://github.com/maga86/Proyecto-Individual/blob/main/movies_dataset.xlsx) en cuestión posee información acerca de películas y distintos atributos de las mismas. El mismo cuenta con 45466 filas (representando cada fila una película) y 24 columnas (atributos de cada título).
 
-## Diccionario de Datos:
+### Diccionario de Datos:
 
 - adult: Indica si la película tiene califiación X, exclusiva para adultos.
 - belongs_to_collection: Un diccionario que indica a que franquicia o serie de películas pertenece la película.
@@ -47,7 +47,8 @@ El [Dataset](https://github.com/maga86/Proyecto-Individual/blob/main/movies_data
 - FastAPI: Utilizado para crear la interfaz de la aplicación y procesar los parámetros de funciones.
 - Uvicorn: Servidor ASGI utilizado para ejecutar la aplicación FastAPI.
 - Render: Plataforma utilizada para el despliegue del modelo y la aplicación.
-                                              ## DESARROLLO DEL PROYECTO:
+
+   ## DESARROLLO DEL PROYECTO:
 
 ### Data Engineering:
 
