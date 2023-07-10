@@ -90,7 +90,7 @@ Se crearon 6 funciones para los endspoint quer se consumiran en la Api utilizand
    Se puede visualizar los Endspoints realizados en el archivo: [main.py](https://github.com/maga86/Proyecto-Individual/blob/main/main.py)
 
  
-### Análisis exploratorio de datos:
+### Análisis Exploratorio de Datos:
 
 A los efectos de poder entender los datos presentados realice una transformación,la cual no fue pedida en el trabajo, para que visualmente el dataset fuera mas accesible: renombre las columnas utilizando  el formato Camel Case Y reordene las columnas.
 
