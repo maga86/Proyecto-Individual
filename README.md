@@ -5,6 +5,10 @@
 
 El proyecto se plantea a partir de un data set con información de películas, al cual se le realizan un trabajo de Data Engineering haciendo una serie de transformaciones para luego llevar a cabo  los endpoints pedidos y un modelo de recomendación de películas utilizando Machine Learning, a través de una API.
 
+## Dataset
+
+El [dataset](https://github.com/maga86/Proyecto-Individual/blob/main/movies_dataset.xlsx) en cuestión posee información acerca de películas y distintos atributos de las mismas. El mismo cuenta con 45466 filas (representando cada fila una película) y 24 columnas (atributos de cada título).
+
 ### Data Engineering:
 
 En el ámbito de la Ingeniería de Datos, se llevó a cabo un conjunto de transformaciones requeridas :
@@ -46,9 +50,10 @@ Se crearon 6 funciones para los endspoint quer se consumiran en la Api utilizand
  
 ### Análisis exploratorio de datos:
 
-A los efectos de poder entender los datos presentados, se realizaron una serie de análisis y estudios sobre las variables del dataset a los efectos de poder encontrar relaciones entre los datos y comprender la relevancia de los mismos. Dentro de los análisis efectuados se encuentran gráficos de palabras graficos de barras comparando columna, distribuciones de frecuencias de las variables numéricas, identificación de variables categóricas y sus valores, correlación entre variables, análisis temporales y por categoría.
+A los efectos de poder entender los datos presentados, se realizaron una serie de análisis y estudios sobre las variables del dataset a para  poder encontrar relaciones entre los datos y comprender la relevancia de los mismos. Dentro de los análisis efectuados se encuentran gráficos de palabras gráficos de barras comparando columna, distribuciones de frecuencias de las variables numéricas, identificación de variables categóricas y sus valores, correlación entre variables, detección de outliers, análisis temporales y por categoría.
 
 ### Deployed:
+
 Para el deploy de la API, se utilizó la plataforma Render. Los datos están listos para ser consumidos y consultados a partir del siguiente link: https://api-brrw.onrender.com/docs.
 
 ### Video:
