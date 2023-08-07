@@ -66,8 +66,7 @@ En el ámbito de la Ingeniería de Datos, se llevó a cabo un conjunto de transf
 
 - Eliminar las columnas que no serán utilizadas, video,imdb_id,adult,original_title,poster_path y homepage.
 
-Se pueden visualizar las transformaciones y los análisis realizados en el [Proyecto 1 ETL.ipynb](https://github.com/maga86/Proyecto-Individual/blob/main/Proyecto_1_ETL.ipynb)
-
+Se pueden visualizar las transformaciones y los análisis realizados en el [ETL.ipynb]https://github.com/maga86/Proyecto_Individual1_ML_OPS/blob/main/EDA.ipynb
 ### Desarrollo API:
 Se crearon 6 funciones para los endspoint quer se consumiran en la Api utilizando el framework FastApi :
 
