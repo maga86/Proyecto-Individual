@@ -4,6 +4,7 @@
 ![](https://www.go4it.solutions/sites/default/files/2021-06/05.01.%20Qu%C3%A9%20es%20el%20Machine%20Learning.jpg)
 
 El proyecto se plantea a partir de un data set con información de películas, al cual se le realizan un trabajo de Data Engineering haciendo una serie de transformaciones para luego llevar a cabo  los endpoints pedidos y un modelo de recomendación de películas utilizando Machine Learning, a través de una API.
+![](https://i0.wp.com/xperimentalhamid.com/wp-content/uploads/2021/05/Steam-Unlocked.png?fit=1300%2C800&ssl=1&is-pending-load=1)
 
 ### Dataset:
 
